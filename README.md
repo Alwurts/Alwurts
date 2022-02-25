@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alwurts and I'm a Mechatronics Enginner from Mexico.
 - 👀 I’m interested in user experience and its use in full stack web development.
-- 🌱 I’m currently learning about building web apps with React Js for frontend and Django as backend.
-- 📫 I would love to hear your comments and collaborate on any interesting projects, so reach me
+- 🌱 I’m currently learning about building web apps with React Js and Google Workbox.
+- 📫 I would love to hear your comments and collaborate on any interesting projects, so do reach me
   at alejandrowurts@gmail.com
 
 <!---
